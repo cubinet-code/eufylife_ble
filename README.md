@@ -2,6 +2,8 @@
 
 Custom component for [Home Assistant](https://www.home-assistant.io/) that extends the built-in EufyLife BLE integration with **impedance** and **heart rate** support for the Smart Scale P3 (T9150).
 
+![Smart Scale P3 in Home Assistant](screenshot.png)
+
 ## Features
 
 | Sensor | Models | Description |
