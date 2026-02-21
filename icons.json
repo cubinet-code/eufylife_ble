@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "sensor": {
+      "heart_rate": {
+        "default": "mdi:heart-pulse"
+      },
+      "impedance": {
+        "default": "mdi:flash"
+      }
+    }
+  }
+}
